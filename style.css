@@ -1,0 +1,21 @@
+#contenu__restapi {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.restapi__carte {
+  flex: 1 0 250px;
+}
+
+.bouton__categorie {
+  background-color: whitesmoke;
+  margin-right: 1rem;
+  width: 8rem;
+  height: 2rem;
+}
+
+h5 {
+  font-size: clamp(0.2rem, 0.6rem + 2.5vw, 1rem);
+}/*# sourceMappingURL=style.css.map */
